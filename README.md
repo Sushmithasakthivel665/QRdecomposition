@@ -1,4 +1,4 @@
-<img width="1217" height="638" alt="image" src="https://github.com/user-attachments/assets/00ce693a-3917-41f8-8fc0-553de246242b" /># Algorithm for QR Decomposition
+
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -53,7 +53,8 @@ print("The R Matrix is \n",R)
 
 ## Output
 ```
-<img width="1217" height="638" alt="Screenshot 2025-11-27 192014" src="https://github.com/user-attachments/assets/12cd90ed-0ca0-4b2d-b778-c00b97ff7e39" />
+<img width="1217" height="638" alt="Screenshot 2025-11-27 192014" src="https://github.com/user-attachments/assets/5573c8aa-319e-492f-8d72-165a4bb59d82" />
+
 
 ```
 
